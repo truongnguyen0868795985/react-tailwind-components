@@ -1,2 +1,2 @@
 # tailwind-components
-Created with CodeSandbox
+Free Tailwind components
